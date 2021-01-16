@@ -1,0 +1,19 @@
+#formWrapper {
+    padding-top: 40px;
+    border: 2px solid black;
+    width: 60vw;
+    text-align: center;
+    /* display: none; */
+    display: inline;
+}
+
+img {
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+}
+
+#formWrapper button {
+    /* border-radius: 35%; */
+    font-size: 2em;
+}
